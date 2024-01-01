@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment 01/Assignment 01.iml" filepath="$PROJECT_DIR$/Assignment 01/Assignment 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection_Framework/Collection_Framework.iml" filepath="$PROJECT_DIR$/Collection_Framework/Collection_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learning JAVA.iml" filepath="$PROJECT_DIR$/.idea/Learning JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_02/Week_02.iml" filepath="$PROJECT_DIR$/Week_02/Week_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_03/Week_03.iml" filepath="$PROJECT_DIR$/Week_03/Week_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_04/Week_04.iml" filepath="$PROJECT_DIR$/Week_04/Week_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week_05/Week_05.iml" filepath="$PROJECT_DIR$/Week_05/Week_05.iml" />
+    </modules>
+  </component>
+</project>
